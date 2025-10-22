@@ -59,3 +59,12 @@ The design adapts across screen sizes:
 
 The UI embodies “grace in motion” — blending visual rhythm, subtle animations, and a cohesive brand identity to create a calm yet empowering user journey.
 
+## 🎨 Figma Design
+You can view the Figma prototype here:  
+👉 [View Figma Design](https://www.figma.com/design/sUSOymoTbdCk2ILquBDmn0/Projects?node-id=2121-2&t=sGLCl2fFhxJ5NnP8-1)
+
+## Credits
+Designed by **Elisha Jhoyce Magbitang**  
+© 2025 Grace in Every Flow All rights reserved.
+
+![Grace in Every Flow v2 Preview](gief.png)
